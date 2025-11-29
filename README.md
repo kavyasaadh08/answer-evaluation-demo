@@ -45,7 +45,7 @@ i) Clone the repository
 ii) Install required dependency: pip install streamlit
 iii) Run the application using: streamlit run app.py
 iv) Open the browser and access the application at:
-   http://localhost:8501
+   http://localhost: 8501
 The interface allows the jury/company to configure job roles and skills, conduct interview evaluation, and view qualification results interactively.
 [OR] 
 Page can be directly reached with this link:

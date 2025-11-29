@@ -17,7 +17,7 @@ Total score (out of 50)
 Clear Qualified / Not Qualified decision
 Provides a reset option to test multiple candidates easily
 
-2.KEY FEATURES AND LIMITATIONS:
+2. KEY FEATURES AND LIMITATIONS:
 i) KEY FEATURES:
 Job role & skill-based configuration
 Structured interview with 5 standard questions

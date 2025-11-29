@@ -41,10 +41,10 @@ GitHub – version control
 This project is implemented as a local Streamlit web application.
 Python 3.x installed on the system in PyCharm Community.
 Steps to Run the Application
-1. Clone the repository
-2. Install required dependency: pip install streamlit
-3. Run the application using: streamlit run app.py
-4. Open the browser and access the application at:
+i) Clone the repository
+ii) Install required dependency: pip install streamlit
+iii) Run the application using: streamlit run app.py
+iv) Open the browser and access the application at:
    http://localhost:8501
 The interface allows the jury/company to configure job roles and skills, conduct interview evaluation, and view qualification results interactively.
 [OR] 
